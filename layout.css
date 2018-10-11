@@ -1,0 +1,83 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.footer div{
+	text-align: center;
+	width: 100%;
+	background-color: #6FA8DC;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	float: right;
+	margin-top: 170px;
+}
+
+.logo img{
+	width: 7%;
+	height: 10%;
+	margin: 20px 0 20px 150px
+}
+
+.logo p{
+	font-size: 25px;
+	margin: -82px 0 0 240px;
+}
+
+.intro{
+	background-color: #6FA8DC;
+	line-height: 7px;
+	margin-top: 40px;
+}
+
+.text-1{
+	font-style: italic;
+	color: #fff;
+	text-align: center;
+	padding-top: 12px;
+}
+
+.text-2{
+	color: #fff;
+	text-indent: 820px;
+	padding-bottom: 10px;
+}
+
+.nav ul{
+	float: right;
+	margin: -28px 200px 20px 0;
+}
+
+
+.nav ul li{
+	list-style-type: none;
+	float: left;
+	
+}
+
+.nav ul li a{
+	color: #6FA8DC;
+}
+
+.content{
+	padding: 0 120px;
+	float: right;
+}
+
+.content div{
+	width: 25%;
+	height: auto;
+	float: left;
+	margin: 0 40px;
+}
+
+.content div h3 a{
+	color: #6FA8DC;
+}
+
+.content h3{
+	color: #6FA8DC;
+}
+
+.content div > img{
+	width: 100%;
+	height: auto;
+}
